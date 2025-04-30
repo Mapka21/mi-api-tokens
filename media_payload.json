@@ -1,0 +1,10 @@
+cat media_payload.json
+
+{
+  "title": "Naruto the Movie",
+  "classification": "Acción",
+  "release_date": "2004-08-21",
+  "review": "Primera película de Naruto.",
+  "season": null,
+  "character_ids": [1,2,3,4]
+}
